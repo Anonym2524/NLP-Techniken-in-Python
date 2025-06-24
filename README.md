@@ -54,3 +54,8 @@ Bibliotheken:
 - os,
 - Importlib,
 - JSON.
+
+Lizenz:
+-
+MIT-Lizenz
+
